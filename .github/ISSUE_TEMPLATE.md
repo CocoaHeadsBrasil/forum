@@ -4,7 +4,7 @@
 # O que você já tentou para resolver?
 
 
-# Snnipet
+# Snippet
 ```swift
 // Código
 ```
