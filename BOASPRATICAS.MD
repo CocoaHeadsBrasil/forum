@@ -1,8 +1,9 @@
-# FORUM :: Boas Práticas ![Versão](https://img.shields.io/badge/Versão-0.0.1-green.svg) 
-Boas práticas para participantes do forum postarem duvidas, não é tutorial nem um guia. 
-Contém recomendações de como formatar seu código, abrir uma issue, receber e dar respostas. 
+# Boas Práticas ![Versão](https://img.shields.io/badge/Versão-0.0.1-green.svg) 
 
-### Postando um problema
+Guia de boas práticas para participantes do fórum.
+Contém recomendações de como formatar seu código, abrir uma _issue_ e acompanhar as discussoões. 
+
+### Postando uma dúvida
 
 Adicione uma **issue** utilizando o template oferecido na descrição. No título, coloque o tema entre colchetes, seguida da dúvida.
 
@@ -16,7 +17,10 @@ Adicione uma **issue** utilizando o template oferecido na descrição. No títul
 
 `[CocoaPods] Como criar um pod de um repositório privado?`
 
+Adicione _labels_ para melhor destaque e organização.
 
-# TODO
+### Como receber atualizações do Forum
 
-Definir _labels_ para visualização e pesquisa no fórum.
+Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+
+
