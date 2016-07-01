@@ -9,9 +9,9 @@ Adicione uma **issue** utilizando o template oferecido na descrição. No títul
 
 #### Exemplos
 
-`[Swift] Como fazer downloads assincronos`
+`[Swift] Como fazer downloads assíncronos`
 
-`[Obj-C][Crash] UImage não recarrega`
+`[Obj-C][Crash] UIImage não recarrega`
 
 `[Xcode] Como trocar as cores do editor?`
 
