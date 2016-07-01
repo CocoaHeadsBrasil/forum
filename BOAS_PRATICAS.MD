@@ -1,7 +1,7 @@
 # Boas Práticas ![Versão](https://img.shields.io/badge/Versão-0.0.1-green.svg) 
 
 Guia de boas práticas para participantes do fórum.
-Contém recomendações de como formatar seu código, abrir uma _issue_ e acompanhar as discussoões. 
+Contém recomendações de como formatar seu código, abrir uma _issue_ e acompanhar as discussões. 
 
 ### Postando uma dúvida
 
